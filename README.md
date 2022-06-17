@@ -6,3 +6,5 @@
 
 1. Install Mongo db and start its server
 2. run app.js command in the terminal
+
+<img width="1280" alt="Screenshot 2022-06-18 at 5 18 44 AM" src="https://user-images.githubusercontent.com/107430204/174413368-11044702-f3e8-4adb-b1c1-cfe18be6c39e.png">
